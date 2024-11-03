@@ -7,8 +7,6 @@ import { Component } from '@angular/core';
 })
 export class InputComponent {
   constructor() {
-    console.log("input component");
-
   }
 
 }
